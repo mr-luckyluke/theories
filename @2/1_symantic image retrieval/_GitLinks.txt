@@ -1,0 +1,7 @@
+# Github URLs
+
+https://github.com/cvjena/semantic-embeddings?tab=readme-ov-file
+https://github.com/easonnie/semanticRetrievalMRS
+!!! https://github.com/caiyinqiong/Semantic-Retrieval-Models
+!!! https://github.com/haokunwen/Awesome-Composed-Image-Retrieval
+!!! https://github.com/willard-yuan/awesome-cbir-papers
